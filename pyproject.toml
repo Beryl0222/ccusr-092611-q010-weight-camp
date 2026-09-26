@@ -1,0 +1,8 @@
+[build-system]
+requires=[]
+build-backend="setuptools.build_meta"
+[project]
+name="weight_camp"
+version="0.1.0"
+description="减重训练风险台服务"
+requires-python=">=3.10"
